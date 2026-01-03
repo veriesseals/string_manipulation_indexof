@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        
+        // To determine the start index of a particular substring, you’ll employ the indexOf(String stringToSearchFor) method as in the example below. Review the code and then select Run to view the output.
+
         // Create a string variable
         String testString = "This is a test which is nice";
 
